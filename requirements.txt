@@ -1,0 +1,1 @@
+abstract-duration>=2.7.3
